@@ -1,0 +1,1 @@
+I changed the text styling of the <h1> "Awesome Startup Employee Directory" to have a color gradient, perhaps more suited to the awesome nature its referring to
